@@ -1,0 +1,64 @@
+body{
+
+    background-image: url(../assets/fondo.png);
+    background-repeat: repeat;
+}
+
+.playwrite-it-moderna{
+    font-family: "Playwrite IT Moderna", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.margin{
+    margin: 15px;
+}
+
+.padding{
+    padding: 10px;
+}
+
+.logoImg{
+    border-radius: 50%;
+    width: 20%;
+}
+
+.image{
+    border-radius: 8px;
+}
+
+.imageFechas{
+    width: 80%;
+}
+
+.navItem{
+    list-style: none;
+    min-width: 30%;
+    text-decoration: none;
+}
+
+.navColor{
+    background-color: #FCC8C2;
+}
+
+.aStyle{
+    text-decoration: none;
+}
+
+.imgCarrusel{
+    max-height: 800px;
+}
